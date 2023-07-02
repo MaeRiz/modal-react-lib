@@ -1,6 +1,6 @@
 {
   "name": "modal-react-lib",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Simple modal library",
   "author": "MaeRiz",
   "license": "MIT",
@@ -49,5 +49,16 @@
   },
   "files": [
     "dist"
+  ],
+  "tags": [
+    "react",
+    "modal",
+    "dialog"
+  ],
+  "keywords": [
+    "react",
+    "react-component",
+    "modal",
+    "dialog"
   ]
 }

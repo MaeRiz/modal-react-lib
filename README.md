@@ -1,18 +1,22 @@
-![version](https://svgshare.com/i/urR.svg)
+![version](https://svgshare.com/i/us2.svg)
 
 # modal-react-lib
 
 > Simple modal library for react project
 
-![Alt Text](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmM4MnIxMDhlbnpxOGY4NHFqNzNxcG15djhidm1zc3N4bmN2eTF5ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ODa9hWploUfbLABL7Q/giphy.gif)
+![exemple](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmM4MnIxMDhlbnpxOGY4NHFqNzNxcG15djhidm1zc3N4bmN2eTF5ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ODa9hWploUfbLABL7Q/giphy.gif)
 
 ## Technologies
+
+[![React version](https://svgshare.com/i/urK.svg)](https://react.dev/)
 
 [![NodeJS Version](https://svgshare.com/i/uqR.svg)](https://nodejs.org/en)
 
 [![NPM version](https://svgshare.com/i/uqm.svg)](https://www.npmjs.com/)
 
 [![create react library version](https://svgshare.com/i/urz.svg)](https://github.com/transitive-bullshit/create-react-library)
+
+[![VSCode version](https://svgshare.com/i/usN.svg)](https://code.visualstudio.com/)
 
 ## Install
 
